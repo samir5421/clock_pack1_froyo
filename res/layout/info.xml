@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Thank you for installing Clock Pack 1. This app includes Analog Clock Widget 1, Analog Clock Widget 2, Analog Clock Widget 3, and Analog Clock Widget 4.\n" />
+</LinearLayout>
